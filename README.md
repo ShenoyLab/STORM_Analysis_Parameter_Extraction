@@ -1,6 +1,6 @@
 # STORM_Analysis_Parameter_Extraction
 
-This MATLAB code analyzes point cloud images of H2B distribution in the nucleus to predict the spatial distribution of chromatin compaction and extact heterochromatin domains sizes. 
+This MATLAB code extract heterochromatin domains sizes using point cloud images of H2B distribution in the nucleus. 
 
 ------------------------------------------------------------------------------
 ## System Requirement
